@@ -18,6 +18,6 @@ Hands-on projects focused on real SOC workflows: alert triage, packet analysis, 
 1. [Project 1: Wireshark Traffic Analysis](link-to-subfolder-or-file)  
    - Analyzed sample packets to identify suspicious activity.
 
-(We'll fill this in next!)
+
 
 Let's connect if you're hiring entry-level SOC analysts!
